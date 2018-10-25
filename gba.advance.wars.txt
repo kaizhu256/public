@@ -1,0 +1,586 @@
+#	Description	Code
+1E	Enable Code (Must Be On)	00006838 000A
+1006C992 0007
+1	Always Day 1	33004420 0001
+2	Infinite Coins	8201227C FFFF
+3	P1 Infinite G	8201AB9C 423F
+8201AB9E 000F
+4	P1 No G	8201AB9C 0000
+8201AB9E 0000
+5	P2 Infinite G	8201AC04 423F
+8201AC06 000F
+6	P2 No G	8201AC04 0000
+8201AC06 0000
+7	P3 Infinite G	8201AC6C 423F
+8201AC6E 000F
+8	P3 No G	8201AC6C 0000
+8201AC6E 0000
+9	P4 Infinite G	8201ACD4 423F
+8201ACD6 000F
+10	P4 No G	8201ACD4 0000
+8201ACD6 0000
+11	P1 Infinite CO Power [Note 1]	8201ABBC FFFF
+12	P1 No CO Power	8201ABBC 0000
+13	P2 Infinite CO Power	8201AC24 FFFF
+14	P2 No CO Power	8201AC24 0000
+15	P3 Infinite CO Power	8201AC8C FFFF
+16	P3 No CO Power	8201AC8C 0000
+17	P4 Infinite CO Power	8201ACF4 FFFF
+18	P4 No CO Power	8201ACF4 0000
+19	Move All Around The Map	830036D8 0101
+830036DA 0101
+20	P2 Has No Buildings Captured	3201AC14 0000
+21	No Fog Of War	3300431D 0000
+22	Always Fog Of War	3300431D 0001
+23	Always Get S Rank	3201ABCA 0005
+24	Press Select To Win Capture Battles	74000130 03FB
+3201ABAC 0063
+25	Always Nell	8201ABB8 0000
+26	Always Andy	8201ABB8 0100
+27	Always Max	8201ABB8 0200
+28	Always Olaf	8201ABB8 0300
+29	Always Sami	8201ABB8 0400
+30	Always Grit	8201ABB8 0500
+31	Always Kanbei	8201ABB8 0600
+32	Always Sonja	8201ABB8 0700
+33	Always Eagle	8201ABB8 0800
+34	Always Drake	8201ABB8 0900
+35	Always Sturm	8201ABB8 0A00
+36	Nell Always CO	3201ABB9 0000
+37	Andy Always CO	3201ABB9 0001
+38	Max Always CO	3201ABB9 0002
+39	Olaf Always CO	3201ABB9 0003
+40	Sami Always CO	3201ABB9 0004
+41	Grit Always CO	3201ABB9 0005
+42	Kanbei Always CO	3201ABB9 0006
+43	Sonja Always CO	3201ABB9 0007
+44	Eagle Always CO	3201ABB9 0008
+45	Drake Always CO	3201ABB9 0009
+46	Sturm Always CO	3201ABB9 000A
+47	Play Against Nell	3201AC21 0000
+48	Play Against Andy	3201AC21 0001
+49	Play Against Max	3201AC21 0002
+50	Play Against Olaf	3201AC21 0003
+51	Play Against Sami	3201AC21 0004
+52	Play Against Grit	3201AC21 0005
+53	Play Against Kanbei	3201AC21 0006
+54	Play Against Sonja	3201AC21 0007
+55	Play Against Eagle	3201AC21 0008
+56	Play Against Drake	3201AC21 0009
+57	Play Against Sturm	3201AC21 000A
+Your Unit Codes
+Unit 1 Codes
+58	Max HP	32019F44 0064
+59	Max Rds	32019F45 0005
+60	Max Gas	32019F46 0063
+61	Press L To Move Unit Again	74000130 01FF
+32019F41 0000
+Unit 2 Codes
+62	Max HP	32019F50 0064
+63	Max Rds	32019F51 0005
+64	Max Gas	32019F52 0063
+65	Press L To Move Unit Again	74000130 01FF
+32019F4D 0000
+Unit 3 Codes
+66	Max HP	32019F5C 0064
+67	Max Rds	32019F5D 0005
+68	Max Gas	32019F5E 0063
+69	Press L To Move Unit Again	74000130 01FF
+32019F59 0000
+Unit 4 Codes
+70	Max HP	32019F68 0064
+71	Max Rds	32019F69 0005
+72	Max Gas	32019F6A 0063
+73	Press L To Move Unit Again	74000130 01FF
+32019F65 0000
+Unit 5 Codes
+74	Max HP	32019F74 0064
+75	Max Rds	32019F75 0005
+76	Max Gas	32019F76 0063
+77	Press L To Move Unit Again	74000130 01FF
+32019F71 0000
+Unit 6 Codes
+78	Max HP	32019F80 0064
+79	Max Rds	32019F81 0005
+80	Max Gas	32019F82 0063
+81	Press L To Move Unit Again	74000130 01FF
+32019F7D 0000
+Unit 7 Codes
+82	Max HP	32019F8C 0064
+83	Max Rds	32019F8D 0005
+84	Max Gas	32019F8E 0063
+85	Press L To Move Unit Again	74000130 01FF
+32019F89 0000
+Unit 8 Codes
+86	Max HP	32019F98 0064
+87	Max Rds	32019F99 0005
+88	Max Gas	32019F9A 0063
+89	Press L To Move Unit Again	74000130 01FF
+32019F95 0000
+Unit 9 Codes
+90	Max HP	32019FA4 0064
+91	Max Rds	32019FA5 0005
+92	Max Gas	32019FA6 0063
+93	Press L To Move Unit Again	74000130 01FF
+32019FA1 0000
+Unit 10 Codes
+94	Max HP	32019FB0 0064
+95	Max Rds	32019FB1 0005
+96	Max Gas	32019FB2 0063
+97	Press L To Move Unit Again	74000130 01FF
+32019FAD 0000
+Unit 11 Codes
+98	Max HP	32019FBC 0064
+99	Max Rds	32019FBD 0005
+100	Max Gas	32019FBE 0063
+101	Press L To Move Unit Again	74000130 01FF
+32019FB9 0000
+Unit 12 Codes
+102	Max HP	32019FC8 0064
+103	Max Rds	32019FC9 0005
+104	Max Gas	32019FCA 0063
+105	Press L To Move Unit Again	74000130 01FF
+32019FC5 0000
+Unit 13 Codes
+106	Max HP	32019FD4 0064
+107	Max Rds	32019FD5 0005
+108	Max Gas	32019FD6 0063
+109	Press L To Move Unit Again	74000130 01FF
+32019FD1 0000
+Unit 14 Codes
+110	Max HP	32019FE0 0064
+111	Max Rds	32019FE1 0005
+112	Max Gas	32019FE2 0063
+113	Press L To Move Unit Again	74000130 01FF
+32019FDD 0000
+Unit 15 Codes
+114	Max HP	32019FEC 0064
+115	Max Rds	32019FED 0005
+116	Max Gas	32019FEE 0063
+117	Press L To Move Unit Again	74000130 01FF
+32019FE9 0000
+Enemy Unit Codes
+Unit 1 Codes
+118	Press Select For 1 HP	74000130 03FB
+3201A244 0001
+119	Press Select For No Rds	74000130 03FB
+3201A245 0000
+120	Press Select For 1 Gas	74000130 03FB
+3201A246 0001
+Unit 2 Codes
+121	Press Select For 1 HP	74000130 03FB
+3201A250 0001
+122	Press Select For No Rds	74000130 03FB
+3201A251 0000
+123	Press Select For 1 Gas	74000130 03FB
+3201A252 0001
+Unit 3 Codes
+124	Press Select For 1 HP	74000130 03FB
+3201A25C 0001
+125	Press Select For No Rds	74000130 03FB
+3201A25D 0000
+126	Press Select For 1 Gas	74000130 03FB
+3201A25E 0001
+Unit 4 Codes
+127	Press Select For 1 HP	74000130 03FB
+3201A268 0001
+128	Press Select For No Rds	74000130 03FB
+3201A269 0000
+129	Press Select For 1 Gas	74000130 03FB
+3201A26A 0001
+Unit 5 Codes
+130	Press Select For 1 HP	74000130 03FB
+3201A274 0001
+131	Press Select For No Rds	74000130 03FB
+3201A275 0000
+132	Press Select For 1 Gas	74000130 03FB
+3201A276 0001
+Unit 6 Codes
+133	Press Select For 1 HP	74000130 03FB
+3201A280 0001
+134	Press Select For No Rds	74000130 03FB
+3201A281 0000
+135	Press Select For 1 Gas	74000130 03FB
+3201A282 0001
+Unit 7 Codes
+136	Press Select For 1 HP	74000130 03FB
+3201A28C 0001
+137	Press Select For No Rds	74000130 03FB
+3201A28D 0000
+138	Press Select For 1 Gas	74000130 03FB
+3201A28E 0001
+Unit 8 Codes
+139	Press Select For 1 HP	74000130 03FB
+3201A298 0001
+140	Press Select For No Rds	74000130 03FB
+3201A299 0000
+141	Press Select For 1 Gas	74000130 03FB
+3201A29A 0001
+Unit 9 Codes
+142	Press Select For 1 HP	74000130 03FB
+3201A2A4 0001
+143	Press Select For No Rds	74000130 03FB
+3201A2A5 0000
+144	Press Select For 1 Gas	74000130 03FB
+3201A2A6 0001
+Unit 10 Codes
+145	Press Select For 1 HP	74000130 03FB
+3201A2B0 0001
+146	Press Select For No Rds	74000130 03FB
+3201A2B1 0000
+147	Press Select For 1 Gas	74000130 03FB
+3201A2B2 0001
+Unit 11 Codes
+148	Press Select For 1 HP	74000130 03FB
+3201A2BC 0001
+149	Press Select For No Rds	74000130 03FB
+3201A2BD 0000
+150	Press Select For 1 Gas	74000130 03FB
+3201A2BE 0001
+Unit 12 Codes
+151	Press Select For 1 HP	74000130 03FB
+3201A2C8 0001
+152	Press Select For No Rds	74000130 03FB
+3201A2C9 0000
+153	Press Select For 1 Gas	74000130 03FB
+3201A2CA 0001
+Unit 13 Codes
+154	Press Select For 1 HP	74000130 03FB
+3201A2D4 0001
+155	Press Select For No Rds	74000130 03FB
+3201A2D5 0000
+156	Press Select For 1 Gas	74000130 03FB
+3201A2D6 0001
+Unit 14 Codes
+157	Press Select For 1 HP	74000130 03FB
+3201A2E0 0001
+158	Press Select For No Rds	74000130 03FB
+3201A2E1 0000
+159	Press Select For 1 Gas	74000130 03FB
+3201A2E2 0001
+Unit 15 Codes
+160	Press Select For 1 HP	74000130 03FB
+3201A2EC 0001
+161	Press Select For No Rds	74000130 03FB
+3201A2ED 0000
+162	Press Select For 1 Gas	74000130 03FB
+3201A2EE 0001
+
+
+
+                           Kathinja's Advance Wars FAQ!
+                                    Version 3
+                                     9/28/01
+                   +-----------------------------------------+
+                   |             Preface & Intro             |
+                   +-----------------------------------------+
+Hey all, I'm releasing another very early version of my guide, so I can start
+to get
+working and start to get contributions. Obviously it's very incomplete right
+now, but it will get better!
+
+ - My email is artillery@mediaone.net
+ - My AIM name is Gomfie
+ - My ICQ number (I rarely use ICQ) is 13969813
+
+If you want to contact me for help, please follow these sort-of "rules":
+
+ - Please don't ask for help on missions I've not yet covered.
+ - Please refer by mission NAME, not NUMBER. Asking for help on "mission 10"
+can
+   mean either "Mighty Kanbei" or "Kanbei's Error".
+ - Please include AW or Advance Wars in the subject.
+ - Please spell whatever name you use to address me correctly. Unacceptable
+   spellings of Kathinja include: "Kathninga", "Kathleenja", "Katninja", and
+the
+   popular "Kathninja"
+
+I take contributions and give full credit! If you can provide a strategy for a
+mission that doesn't fall under what I've said, I'll include your strategy
+along
+with mine, with credit given for your portion. Please include the mission name
+and the CO you used when submitting strategies. Thanks!
+
+                   +-----------------------------------------+
+                   |                 History                 |
+                   +-----------------------------------------+
+
+Version 1 (9/21/01) (about 10K):
+ - Very basic... mission path and three campaign stages.
+Version 2 (9/23/01) (about 30K):
+ - Added the history
+ - Changed the format
+ - Added strats for mission 4A,5A, and 6A.
+ - Added CO descriptions for everyone but Nell
+ - Added unit descriptions
+ - Added FAQ
+ - Added secrets section
+Version 3 (9/28/01):
+ - Lots!
+ - Missions up through Sonja
+ - More CO info
+ - More groundwork
+ - Much improved mission tree
+ - Received a bunch of submissions, not everthing is in here yet. Thanks!
+
+                   +-----------------------------------------+
+                   |      Frequently Asked Question          |
+                   +-----------------------------------------+
+
+Q. Is this game hard?
+A. It's easy to learn, but hard to beat. There's an excellent tutorial, and the
+game is farly straightforward. However, there's a lot of depth and strategy,
+and there are many challenging missions later on.
+
+Q. How come I can't pick Max or Sami in Campaign?
+A. You can pick them later in the game. They come in as part of the story.
+Don't worry, there are many missions to use them in, later.
+
+Q. How can you play as Eagle/Drake/Grit/Kanbei/Sonja/Sturm/Nell?
+A. See the "Secrets" section, near the end of this guide.
+
+Q. How can I use Eagle/Drake/Grit/Kanbei/Sonja/Sturm/Nell in Campaign?
+A. Except for the last battle (which I'll post info about later), you can't use
+any of those characters in the regular Campaign.
+
+Q. What are the "Special" and "Vs." folders that you can buy in Battle Maps?
+A. These are new catagories of maps to play in Vs. and Link Battles. You
+probably want to save these to buy later, as you start with a ton of maps to
+play in, anyhow.
+
+Q. How can I delete a Campaign?
+A. Just start a new one and save over it.
+
+Q. How can I delete a Vs. match?
+A. Just start a new Vs. game and save over the one you don't want.
+
+Q. Please help me with Eagle's second mission/Enigma/Final Battle/Rivals!
+A. Big guides will be coming for these missions. Just hang in there!
+
+Q. How come some missions are skipped over? I need help!
+A. Don't worry your little heart. I'm making sure to play every stage as I
+write a strategy for them, so I'm bound to miss some branches as I do so. I
+will, however, end up covering all of the Campaign missions!
+
+                   +-----------------------------------------+
+                   |           Command Officers              |
+                   +-----------------------------------------+
+There are a lot of playable Command Officers (COs) in Advance Wars. Althought
+you'll only be able to play as three (Andy, Max, Sami) in the Campaign, you can
+unlock and use a lot more in the regular game. Here's a rundown of all of the
+COs.
+
+                                  Andy
+                                  ----
+
+                   CO Power:
+                        Hyper Repair - Repairs all of his
+                        units by 2 health points and gives
+                        them all a slight battle  bonus for
+                        the rest of the round.
+
+                   Strength/Weakness:
+                        None
+
+Andy is a great beginner CO and good in maps where there is a mix of
+strategies... Andy can also survive long battles due to his CO power, so don't
+be afraid to get in a big fight, you will win if you have at least equal units.
+Remember to pay close, close attention to what the enemy produces. Andy doesn't
+have any strengths, so he must react well to what the enemy is using and find
+an appropriate counter. For instance, Andy must always pack rockets and copters
+against Max, always use Recons and Tanks against Grit, and A-Airs and Fighters
+against Eagle. Only by countering his enemy's strength will he have good
+victories.
+
+                                  Max
+                                  ---
+
+                   CO Power:
+                        Max Force - All Ground vehicles
+                        get +1 move for the rest of the
+                        turn and an attack bonus.
+
+                   Strength/Weakness:
+                        + Non-Inf/Mech Direct Fire units deal
+                          +50% damage
+                        - Indirect Fire units -1 range
+
+Max is good for agressive players, and a strong CO in almost every situation.
+Use him on any flat maps that don't have many choke points. Use his Force power
+when you've popped a whole in the enemy line and you have the chance to storm
+some tanks into the enemy base are. Don't worry about loses that round, if you
+can get 3-4 tanks to the eney base, you will pull their force in half (those
+stranded in the field and those contesting with the invading tanks), and then
+your next wave of troops will acheieve victory. Max should always destroy all
+enemies instead of trying to capture the enemy HQ
+
+                                  Sami
+                                  ----
+                   CO Power:
+                        Double Time - All of her Inf/Mech units
+                        get 1 extra move space and all of the
+                        move costs are reduced to 1. And an attack
+                        bonus.
+
+                   Strength/Weakness:
+                        + Infantry better
+                        + Infantry capt buildings 50% faster
+                        + Transports move faster
+                        - Direct Fire worse for non-Inf/Mech
+
+Sami is great for hilly/foresty/rivery terrian, obviously. Sami will have
+problems against many of the enemy COs, though. Grit can rock her Inf, Max too.
+Only try to beat either of them in a situation where you have airports (for B
+Copters). Kanbei will pose serious problems for Sami, as her tanks will be wet
+paper bags to his super power units. The only way for Sami to beat Kanbei is by
+snagging a plethora of resources and simply out-producing Kanbei.
+
+                                  Grit
+                                  ----
+
+                   CO Power:
+                        Snipe Attack - All Indirect fire
+                        units get +2 range for the turn
+
+                   Strength/Weakness:
+                        - Indirect Fire better
+                        - Direct Fire worse
+
+Grit is the opposite of Max. Use Grit on stages with lots of choke points. Grit
+needs a lot of resources (to produce Md Tanks and of course his
+Artillery/Rockets), so practicng Inf/APC deployment before trying Grit. Grit
+should probably go for the capture instead of destruction, but if he can find
+enough sniper roosts he might be able to win via destruction sometimes.
+
+                                  Olaf
+                                  ----
+                   CO Power:
+                        Blizzard - Covers the land in snow.
+                        All enemy units have big movement
+                        penalties on snow, but his units are
+                        unaffected. Note that roads and cities
+                        are unaffected by snow.
+
+                   Strength/Weakness:
+                        - Units are unaffectd by snow
+                        - Units greatly slowed in rain.
+
+Uh, don't use Olaf unless you want a challenge. :) His CO power won't help much
+unless you're playing some sort of custom map without roads. Additionally, his
+power only really delays a faraway enemy force, it won't help an ongoing battle
+and it certainly doesn't help you get into the enemy base faster.
+
+                                 Eagle
+                                 -----
+
+                    CO Power:
+                         Lightning Strike - All air and ground
+                         vehicles that were used this turn can
+                         be used again.
+
+                    Strength/Weakness:
+                         + Air units better
+                         + Air units drain less fuel
+                         - Naval units worse
+
+Eagle is a very fun player to use, because his strength is unusual and "breaks"
+most enemy strategies. Most than any other player, however, Eagle needs lots of
+resources to win. He will simply fall on his face in small maps, though,
+because he won't have enough money to produce any of his powerhouse air units.
+
+
+                                 Drake
+                                 -----
+
+                    CO Power:
+                         Tsunami - Deals 1 damage to all enemy
+                         units. Units get an attack bonus.
+
+                    Strength/Weakness:
+                         - Naval better
+                         - Air worse
+
+Owns water maps. 'Nuff said. His CO power is generally wasted against Sami and
+Andy, but is reasonable against big Max or Kanbei forces.
+
+                                 Kanbei
+                                 ------
+                    CO Power:
+                         Morale Boost - All units get an off/def
+                         boost for the rest of the turn.
+
+
+                    Strength/Weakness:
+                         - All units +20% offense/defense
+                         - All units +20% price
+
+For the Kanbei War Room stages, Kanbei is your best choice. Max players enojy
+fighting Kanbei, because it is a great, challenging battle. While one might be
+tempted to roll over the enemy with K's superpower tanks and Md Tanks, remember
+that ALL of his units are powerful, and produce Missiles, Mechs, Copters, and
+ocassionally B Ships.
+
+                                 Sonja
+                                 -----
+
+                    CO Power:
+                         Enhanced Vision - In Fog of War, EV
+                         will allow Sonja to see units otherwise
+                         hidden in forests and reefs.
+
+                    Strength/Weakness:
+                         + HP of her units is hidden to the enemy
+                           outside of battle
+                         + Farther vision in Fog of War.
+                         - Unlucky units (deal less damage than normal)
+
+Only really has any advantage in FoW maps, but I guess that she's like Drake in
+that she'll own those kinds of stages. Sonja needs to play sneaky in those
+stages, making lots of use of FoW. Who knows what Sonja would do on non-FoW
+stages.
+
+                                 Sturm
+                                 -----
+
+                    CO Power:
+                         Meteor Strike - Drops a meteor from
+                         the sky, hitting the units in a pattern
+                         like this:
+
+                           X
+                          XXX
+                         XXXXX
+                          XXX
+                           X
+
+                         Everything hit by that pattern will be
+                         reduced to 2 hp (if they have 3 or more
+                         hp), lose one hp (if they have 2 hp),
+                         or die (if they have 1 hp)
+
+                    Strength/Weakness:
+                         -
+                         -
+
+Uh, who knows. :) Use Sturm against AI players, as they won't really know to
+spread out their units. I don't believe Sturm has any power units, so treat
+Sturm like Sonja and Drake and look at the battle conditions before choosing
+him. Sturm will harm himself with meteors, so don't drop them too close to his
+own units.
+
+                                       Nell
+                                       ----
+
+                   CO Power:
+                        Lucky Star - This allows her units to
+                        be exorbodantly luck in their damage,
+                        occasionally dealing 50% or even 100%
+                        extra damage! Also, they get a plain
+                        attack bonus added to their dmg%.
+
+                   Strength/Weakness:
+                        - Her units are slightly more lucky
+
+I wish I had Nell! Her power seemed pretty silly until Inglix did some testing
+and found that she get really extreme damage bonuses from her CO Power. I can't
+give any strategic info on her, yet. :(
