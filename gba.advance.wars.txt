@@ -1,3 +1,4 @@
+https://wescastro.com/codetwink/cheats.codetwink.com/gba/view/4720/default.htm
 #	Description	Code
 1E	Enable Code (Must Be On)	00006838 000A
 1006C992 0007
@@ -268,6 +269,7 @@ Unit 15 Codes
 
 
 
+https://gamefaqs.gamespot.com/gba/471043-advance-wars/faqs/14060
                            Kathinja's Advance Wars FAQ!
                                     Version 3
                                      9/28/01
