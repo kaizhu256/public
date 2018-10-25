@@ -1,0 +1,298 @@
+#	Description	Code
+1E	Enable Code (Must Be On)	00009E1F 000A
+1006FD98 0007
+1	No Fog Of War	33003FCD 0000
+2	Always Day 1	33004080 0001
+3	50,000 G (Shop)	8200C420 C350
+4	50,000 G (In-Battle)	820232C0 C350
+5	Collect 1,000 Per Win	820232F8 03E8
+6	Press B+Up To Activate Power Mode	74000130 03BD
+820232DE 0101
+7	Press B+Down To Activate Super Mode	74000130 037D
+820232DE 0202
+8	Max Stars	320232E1 00FF
+320232E2 00FF
+9	No Stars	320232E1 0000
+10	Always Rank S	320232F3 0005
+11	Max Stars (Opponent)	3202331D 00FF
+3202331E 00FF
+12	No Stars (Opponent)	3202331D 0000
+13	Unlock Hard Campaign	32028030 0001
+14	Unlock Sound Room	32028031 0001
+15	Have All Teams	8202805A FFFF
+16	Have All Color Edits	8202805C FFFF
+8202805E FFFF
+17	Have All Battle Maps	42028040 FFFF
+0000000D 0002
+18	War Room Mastered	4200C078 0101
+0000001E 0014
+4200C07A 12C0
+0000001E 0014
+19	Infinite Health/Rounds (All Units)	42022694 94E4
+00000032 000C
+20	Infinite Rations (All Units) [Note 1]	42022696 0063
+00000032 000C
+Unit 1 Codes
+21	Infinite Health	32022694 00E4
+22	Infinite Rounds	32022695 0094
+23	Infinite Rations	32022696 0063
+24	Infinite Moves	73003334 0006
+32022691 0000
+25	Unit Type Modifier	32022690 00??
+Unit 2 Codes
+26	Infinite Health	320226A0 00E4
+27	Infinite Rounds	320226A1 0094
+28	Infinite Rations	320226A2 0063
+29	Infinite Moves	73003334 0006
+3202269D 0000
+30	Unit Type Modifier	3202269C 00??
+Unit 3 Codes
+31	Infinite Health	320226AC 00E4
+32	Infinite Rounds	320226AD 0094
+33	Infinite Rations	320226AE 0063
+34	Infinite Moves	73003334 0006
+320226A9 0000
+35	Unit Type Modifier	320226A8 00??
+Unit 4 Codes
+36	Infinite Health	320226B8 00E4
+37	Infinite Rounds	320226B9 0094
+38	Infinite Rations	320226BA 0063
+39	Infinite Moves	73003334 0006
+320226B5 0000
+40	Unit Type Modifier	320226B4 00??
+Unit 5 Codes
+41	Infinite Health	320226C4 00E4
+42	Infinite Rounds	320226C5 0094
+43	Infinite Rations	320226C6 0063
+44	Infinite Moves	73003334 0006
+320226C1 0000
+45	Unit Type Modifier	320226C0 00??
+Unit 6 Codes
+46	Infinite Health	320226D0 00E4
+47	Infinite Rounds	320226D1 0094
+48	Infinite Rations	320226D2 0063
+49	Infinite Moves	73003334 0006
+320226CD 0000
+50	Unit Type Modifier	320226CC 00??
+Unit 7 Codes
+51	Infinite Health	320226DC 00E4
+52	Infinite Rounds	320226DD 0094
+53	Infinite Rations	320226DE 0063
+54	Infinite Moves	73003334 0006
+320226D9 0000
+55	Unit Type Modifier	320226D8 00??
+Unit 8 Codes
+56	Infinite Health	320226E8 00E4
+57	Infinite Rounds	320226E9 0094
+58	Infinite Rations	320226EA 0063
+59	Infinite Moves	73003334 0006
+320226E5 0000
+60	Unit Type Modifier	320226E4 00??
+Unit 9 Codes
+61	Infinite Health	320226F4 00E4
+62	Infinite Rounds	320226F5 0094
+63	Infinite Rations	320226F6 0063
+64	Infinite Moves	73003334 0006
+320226F1 0000
+65	Unit Type Modifier	320226F0 00??
+Unit 10 Codes
+66	Infinite Health	32022700 00E4
+67	Infinite Rounds	32022701 0094
+68	Infinite Rations	32022702 0063
+69	Infinite Moves	73003334 0006
+320226FD 0000
+70	Unit Type Modifier	320226FC 00??
+Unit 11 Codes
+71	Infinite Health	3202270C 00E4
+72	Infinite Rounds	3202270D 0094
+73	Infinite Rations	3202270E 0063
+74	Infinite Moves	73003334 0006
+32022709 0000
+75	Unit Type Modifier	32022708 00??
+Unit 12 Codes
+76	Infinite Health	32022718 00E4
+77	Infinite Rounds	32022719 0094
+78	Infinite Rations	3202271A 0063
+79	Infinite Moves	73003334 0006
+32022715 0000
+80	Unit Type Modifier	32022714 00??
+Unit 13 Codes
+81	Infinite Health	32022724 00E4
+82	Infinite Rounds	32022725 0094
+83	Infinite Rations	32022726 0063
+84	Infinite Moves	73003334 0006
+32022721 0000
+85	Unit Type Modifier	32022720 00??
+Unit 14 Codes
+86	Infinite Health	32022730 00E4
+87	Infinite Rounds	32022731 0094
+88	Infinite Rations	32022732 0063
+89	Infinite Moves	73003334 0006
+3202272D 0000
+90	Unit Type Modifier	3202272C 00??
+Unit 15 Codes
+91	Infinite Health	3202273C 00E4
+92	Infinite Rounds	3202273D 0094
+93	Infinite Rations	3202273E 0063
+94	Infinite Moves	73003334 0006
+32022739 0000
+95	Unit Type Modifier	32022738 00??
+Unit 16 Codes
+96	Infinite Health	32022748 00E4
+97	Infinite Rounds	32022749 0094
+98	Infinite Rations	3202274A 0063
+99	Infinite Moves	73003334 0006
+32022745 0000
+100	Unit Type Modifier	32022744 00??
+Unit 17 Codes
+101	Infinite Health	32022754 00E4
+102	Infinite Rounds	32022755 0094
+103	Infinite Rations	32022756 0063
+104	Infinite Moves	73003334 0006
+32022751 0000
+105	Unit Type Modifier	32022750 00??
+Unit 18 Codes
+106	Infinite Health	32022760 00E4
+107	Infinite Rounds	32022761 0094
+108	Infinite Rations	32022762 0063
+109	Infinite Moves	73003334 0006
+3202275D 0000
+110	Unit Type Modifier	3202275C 00??
+Unit 19 Codes
+111	Infinite Health	3202276C 00E4
+112	Infinite Rounds	3202276D 0094
+113	Infinite Rations	3202276E 0063
+114	Infinite Moves	73003334 0006
+32022769 0000
+115	Unit Type Modifier	32022768 00??
+Unit 20 Codes
+116	Infinite Health	32022778 00E4
+117	Infinite Rounds	32022779 0094
+118	Infinite Rations	3202277A 0063
+119	Infinite Moves	73003334 0006
+32022775 0000
+120	Unit Type Modifier	32022774 00??
+Enemy Codes
+Blue Team Codes
+121	Weak Units	42022994 0001
+00000032 000C
+122	No Rations	42022996 0000
+00000032 000C
+123	No Funds	820232FC 0000
+124	No Power	8202331C 0000
+125	Infinite Health/Rounds	42022994 94E4
+00000032 000C
+126	Infinite Rations	42022996 0063
+00000032 000C
+127	Infinite Funds	820232FC C350
+128	Max Power	3202331F 0002
+Opp. Unit Type Modifier Codes
+129	Unit 1	32022990 00??
+130	Unit 2	3202299C 00??
+131	Unit 3	320229A8 00??
+132	Unit 4	320229B4 00??
+133	Unit 5	320229C0 00??
+134	Unit 6	320229CC 00??
+135	Unit 7	320229D8 00??
+136	Unit 8	320229E4 00??
+137	Unit 9	320229F0 00??
+138	Unit 10	320229FC 00??
+139	Unit 11	32022A08 00??
+140	Unit 12	32022A14 00??
+141	Unit 13	32022A20 00??
+142	Unit 14	32022A2C 00??
+143	Unit 15	32022A38 00??
+144	Unit 16	32022A44 00??
+145	Unit 17	32022A50 00??
+146	Unit 18	32022A5C 00??
+147	Unit 19	32022A68 00??
+148	Unit 20	32022A74 00??
+Green Team Codes
+149	Weak Units	42022C94 0001
+00000032 000C
+150	No Rations	42022C96 0000
+00000032 000C
+151	No Funds	82023338 0000
+152	No Power	82023358 0000
+153	Infinite Health/Rounds	42022C94 94E4
+00000032 000C
+154	Infinite Rations	42022C96 0063
+00000032 000C
+155	Infinite Funds	82023338 C350
+156	Max Power	3202335B 0002
+Opp. Unit Type Modifier Codes
+157	Unit 1	32022C90 00??
+158	Unit 2	32022C9C 00??
+159	Unit 3	32022CA8 00??
+160	Unit 4	32022CB4 00??
+161	Unit 5	32022CC0 00??
+162	Unit 6	32022CCC 00??
+163	Unit 7	32022CD8 00??
+164	Unit 8	32022CE4 00??
+165	Unit 9	32022CF0 00??
+166	Unit 10	32022CFC 00??
+167	Unit 11	32022D08 00??
+168	Unit 12	32022D14 00??
+169	Unit 13	32022D20 00??
+170	Unit 14	32022D2C 00??
+171	Unit 15	32022D38 00??
+172	Unit 16	32022D44 00??
+173	Unit 17	32022D50 00??
+174	Unit 18	32022D5C 00??
+175	Unit 19	32022D68 00??
+176	Unit 20	32022D74 00??
+Yellow Team Codes
+177	Weak Units	42022F94 0001
+00000032 000C
+178	No Rations	42022F96 0000
+00000032 000C
+179	No Funds	82023374 0000
+180	No Power	82023394 0000
+181	Infinite Health/Rounds	42022F94 94E4
+00000032 000C
+182	Infinite Rations	42022F96 0063
+00000032 000C
+183	Infinite Funds	82023374 C350
+184	Max Power	32023397 0002
+Opp. Unit Type Modifier Codes
+185	Unit 1	32022F90 00??
+186	Unit 2	32022F9C 00??
+187	Unit 3	32022FA8 00??
+188	Unit 4	32022FB4 00??
+189	Unit 5	32022FC0 00??
+190	Unit 6	32022FCC 00??
+191	Unit 7	32022FD8 00??
+192	Unit 8	32022FE4 00??
+193	Unit 9	32022FF0 00??
+194	Unit 10	32022FFC 00??
+195	Unit 11	32023008 00??
+196	Unit 12	32023014 00??
+197	Unit 13	32023020 00??
+198	Unit 14	3202302C 00??
+199	Unit 15	32023038 00??
+200	Unit 16	32023044 00??
+201	Unit 17	32023050 00??
+202	Unit 18	3202305C 00??
+203	Unit 19	32023068 00??
+204	Unit 20	32023074 00??
+Quantity Digits to Accompany Unit Modifier Codes
+01 - Infantry
+02 - Mech
+03 - Md Tank
+05 - Tank
+06 - Recon
+07 - APC
+08 - Neotank
+0A - Artlry
+0B - Rockets
+0E - A-Air
+0F - Missiles
+10 - Fighter
+11 - Bomber
+13 - B Cptr
+14 - T Cptr
+15 - B Ship
+16 - Cruiser
+17 - Lander
+18 - Sub
+19 - Mech
