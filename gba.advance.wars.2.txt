@@ -1,3 +1,4 @@
+https://wescastro.com/codetwink/cheats.codetwink.com/gba/view/4722/default.htm
 #	Description	Code
 1E	Enable Code (Must Be On)	00009E1F 000A
 1006FD98 0007
