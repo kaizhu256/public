@@ -1,93 +1,883 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <cheats>
-  <cheat type="cb" name="inf power p1">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="1 Always Day 1" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>33004420 0001</code>
+  </cheat>
+  <cheat type="cb" name="2 Infinite Coins" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201227C FFFF</code>
+  </cheat>
+  <cheat type="cb" name="3 P1 Infinite G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AB9C 423F</code>
+    <code>8201AB9E 000F</code>
+  </cheat>
+  <cheat type="cb" name="4 P1 No G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AB9C 0000</code>
+    <code>8201AB9E 0000</code>
+  </cheat>
+  <cheat type="cb" name="5 P2 Infinite G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC04 423F</code>
+    <code>8201AC06 000F</code>
+  </cheat>
+  <cheat type="cb" name="6 P2 No G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC04 0000</code>
+    <code>8201AC06 0000</code>
+  </cheat>
+  <cheat type="cb" name="7 P3 Infinite G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC6C 423F</code>
+    <code>8201AC6E 000F</code>
+  </cheat>
+  <cheat type="cb" name="8 P3 No G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC6C 0000</code>
+    <code>8201AC6E 0000</code>
+  </cheat>
+  <cheat type="cb" name="9 P4 Infinite G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ACD4 423F</code>
+    <code>8201ACD6 000F</code>
+  </cheat>
+  <cheat type="cb" name="10 P4 No G" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ACD4 0000</code>
+    <code>8201ACD6 0000</code>
+  </cheat>
+  <cheat type="cb" name="11 P1 Infinite CO Power _Note 1_" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>8201ABBC FFFF</code>
   </cheat>
-  <cheat type="cb" name="inf power p2" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="12 P1 No CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABBC 0000</code>
+  </cheat>
+  <cheat type="cb" name="13 P2 Infinite CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>8201AC24 FFFF</code>
   </cheat>
-  <cheat type="cb" name="inf power p3" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="14 P2 No CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC24 0000</code>
+  </cheat>
+  <cheat type="cb" name="15 P3 Infinite CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>8201AC8C FFFF</code>
   </cheat>
-  <cheat type="cb" name="inf power p4" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="16 P3 No CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201AC8C 0000</code>
+  </cheat>
+  <cheat type="cb" name="17 P4 Infinite CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>8201ACF4 FFFF</code>
   </cheat>
-  <cheat type="cb" name="advance wars - rank s" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="18 P4 No CO Power" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ACF4 0000</code>
+  </cheat>
+  <cheat type="cb" name="19 Move All Around The Map" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>830036D8 0101</code>
+    <code>830036DA 0101</code>
+  </cheat>
+  <cheat type="cb" name="20 P2 Has No Buildings Captured" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC14 0000</code>
+  </cheat>
+  <cheat type="cb" name="21 No Fog Of War" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3300431D 0000</code>
+  </cheat>
+  <cheat type="cb" name="22 Always Fog Of War" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3300431D 0001</code>
+  </cheat>
+  <cheat type="cb" name="23 Always Get S Rank" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABCA 0005</code>
   </cheat>
-  <cheat type="cb" name="co nell" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="24 Press Select To Win Capture Battles" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201ABAC 0063</code>
+  </cheat>
+  <cheat type="cb" name="25 Always Nell" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0000</code>
+  </cheat>
+  <cheat type="cb" name="26 Always Andy" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0100</code>
+  </cheat>
+  <cheat type="cb" name="27 Always Max" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0200</code>
+  </cheat>
+  <cheat type="cb" name="28 Always Olaf" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0300</code>
+  </cheat>
+  <cheat type="cb" name="29 Always Sami" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0400</code>
+  </cheat>
+  <cheat type="cb" name="30 Always Grit" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0500</code>
+  </cheat>
+  <cheat type="cb" name="31 Always Kanbei" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0600</code>
+  </cheat>
+  <cheat type="cb" name="32 Always Sonja" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0700</code>
+  </cheat>
+  <cheat type="cb" name="33 Always Eagle" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0800</code>
+  </cheat>
+  <cheat type="cb" name="34 Always Drake" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0900</code>
+  </cheat>
+  <cheat type="cb" name="35 Always Sturm" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>8201ABB8 0A00</code>
+  </cheat>
+  <cheat type="cb" name="36 Nell Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0000</code>
   </cheat>
-  <cheat type="cb" name="co andy" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="37 Andy Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0001</code>
   </cheat>
-  <cheat type="cb" name="co max" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="38 Max Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0002</code>
   </cheat>
-  <cheat type="cb" name="co olaf" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="39 Olaf Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0003</code>
   </cheat>
-  <cheat type="cb" name="co sami" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="40 Sami Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0004</code>
   </cheat>
-  <cheat type="cb" name="co grit" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="41 Grit Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0005</code>
   </cheat>
-  <cheat type="cb" name="co kanbei" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="42 Kanbei Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0006</code>
   </cheat>
-  <cheat type="cb" name="co sonja" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="43 Sonja Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0007</code>
   </cheat>
-  <cheat type="cb" name="co eagle" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="44 Eagle Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0008</code>
   </cheat>
-  <cheat type="cb" name="co drake">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="45 Drake Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 0009</code>
   </cheat>
-  <cheat type="cb" name="co sturm" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
+  <cheat type="cb" name="46 Sturm Always CO" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
     <code>3201ABB9 000A</code>
   </cheat>
-  <cheat type="cb" name="inf move 1" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
-    <code>74000130 01FF</code>
+  <cheat type="cb" name="47 Play Against Nell" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0000</code>
   </cheat>
-  <cheat type="cb" name="no fog" enabled="false">
-    <code>00006838 000A</code>
-    <code>1006C992 0007</code>
-    <code>3300431D 0000</code>
+  <cheat type="cb" name="48 Play Against Andy" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0001</code>
+  </cheat>
+  <cheat type="cb" name="49 Play Against Max" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0002</code>
+  </cheat>
+  <cheat type="cb" name="50 Play Against Olaf" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0003</code>
+  </cheat>
+  <cheat type="cb" name="51 Play Against Sami" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0004</code>
+  </cheat>
+  <cheat type="cb" name="52 Play Against Grit" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0005</code>
+  </cheat>
+  <cheat type="cb" name="53 Play Against Kanbei" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0006</code>
+  </cheat>
+  <cheat type="cb" name="54 Play Against Sonja" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0007</code>
+  </cheat>
+  <cheat type="cb" name="55 Play Against Eagle" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0008</code>
+  </cheat>
+  <cheat type="cb" name="56 Play Against Drake" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 0009</code>
+  </cheat>
+  <cheat type="cb" name="57 Play Against Sturm" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>3201AC21 000A</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit Codes Unit 1 Codes 58 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F44 0064</code>
+  </cheat>
+  <cheat type="cb" name="59 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F45 0005</code>
+  </cheat>
+  <cheat type="cb" name="60 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F46 0063</code>
+  </cheat>
+  <cheat type="cb" name="61 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F41 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 2 Codes 62 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F50 0064</code>
+  </cheat>
+  <cheat type="cb" name="63 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F51 0005</code>
+  </cheat>
+  <cheat type="cb" name="64 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F52 0063</code>
+  </cheat>
+  <cheat type="cb" name="65 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F4D 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 3 Codes 66 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F5C 0064</code>
+  </cheat>
+  <cheat type="cb" name="67 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F5D 0005</code>
+  </cheat>
+  <cheat type="cb" name="68 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F5E 0063</code>
+  </cheat>
+  <cheat type="cb" name="69 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F59 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 4 Codes 70 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F68 0064</code>
+  </cheat>
+  <cheat type="cb" name="71 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F69 0005</code>
+  </cheat>
+  <cheat type="cb" name="72 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F6A 0063</code>
+  </cheat>
+  <cheat type="cb" name="73 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F65 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 5 Codes 74 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F74 0064</code>
+  </cheat>
+  <cheat type="cb" name="75 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F75 0005</code>
+  </cheat>
+  <cheat type="cb" name="76 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F76 0063</code>
+  </cheat>
+  <cheat type="cb" name="77 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F71 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 6 Codes 78 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F80 0064</code>
+  </cheat>
+  <cheat type="cb" name="79 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F81 0005</code>
+  </cheat>
+  <cheat type="cb" name="80 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F82 0063</code>
+  </cheat>
+  <cheat type="cb" name="81 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F7D 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 7 Codes 82 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F8C 0064</code>
+  </cheat>
+  <cheat type="cb" name="83 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F8D 0005</code>
+  </cheat>
+  <cheat type="cb" name="84 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F8E 0063</code>
+  </cheat>
+  <cheat type="cb" name="85 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F89 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 8 Codes 86 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F98 0064</code>
+  </cheat>
+  <cheat type="cb" name="87 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F99 0005</code>
+  </cheat>
+  <cheat type="cb" name="88 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019F9A 0063</code>
+  </cheat>
+  <cheat type="cb" name="89 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019F95 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 9 Codes 90 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FA4 0064</code>
+  </cheat>
+  <cheat type="cb" name="91 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FA5 0005</code>
+  </cheat>
+  <cheat type="cb" name="92 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FA6 0063</code>
+  </cheat>
+  <cheat type="cb" name="93 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FA1 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 10 Codes 94 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FB0 0064</code>
+  </cheat>
+  <cheat type="cb" name="95 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FB1 0005</code>
+  </cheat>
+  <cheat type="cb" name="96 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FB2 0063</code>
+  </cheat>
+  <cheat type="cb" name="97 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FAD 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 11 Codes 98 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FBC 0064</code>
+  </cheat>
+  <cheat type="cb" name="99 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FBD 0005</code>
+  </cheat>
+  <cheat type="cb" name="100 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FBE 0063</code>
+  </cheat>
+  <cheat type="cb" name="101 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FB9 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 12 Codes 102 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FC8 0064</code>
+  </cheat>
+  <cheat type="cb" name="103 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FC9 0005</code>
+  </cheat>
+  <cheat type="cb" name="104 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FCA 0063</code>
+  </cheat>
+  <cheat type="cb" name="105 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FC5 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 13 Codes 106 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FD4 0064</code>
+  </cheat>
+  <cheat type="cb" name="107 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FD5 0005</code>
+  </cheat>
+  <cheat type="cb" name="108 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FD6 0063</code>
+  </cheat>
+  <cheat type="cb" name="109 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FD1 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 14 Codes 110 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FE0 0064</code>
+  </cheat>
+  <cheat type="cb" name="111 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FE1 0005</code>
+  </cheat>
+  <cheat type="cb" name="112 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FE2 0063</code>
+  </cheat>
+  <cheat type="cb" name="113 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FDD 0000</code>
+  </cheat>
+  <cheat type="cb" name="Unit 15 Codes 114 Max HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FEC 0064</code>
+  </cheat>
+  <cheat type="cb" name="115 Max Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FED 0005</code>
+  </cheat>
+  <cheat type="cb" name="116 Max Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="117 Press L To Move Unit Again" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0200</code>
+    <code>32019FE9 0000</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Codes Unit 1 Codes 118 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A244 0001</code>
+  </cheat>
+  <cheat type="cb" name="119 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A245 0000</code>
+  </cheat>
+  <cheat type="cb" name="120 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A246 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 2 Codes 121 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A250 0001</code>
+  </cheat>
+  <cheat type="cb" name="122 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A251 0000</code>
+  </cheat>
+  <cheat type="cb" name="123 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A252 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 3 Codes 124 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A25C 0001</code>
+  </cheat>
+  <cheat type="cb" name="125 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A25D 0000</code>
+  </cheat>
+  <cheat type="cb" name="126 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A25E 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 4 Codes 127 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A268 0001</code>
+  </cheat>
+  <cheat type="cb" name="128 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A269 0000</code>
+  </cheat>
+  <cheat type="cb" name="129 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A26A 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 5 Codes 130 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A274 0001</code>
+  </cheat>
+  <cheat type="cb" name="131 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A275 0000</code>
+  </cheat>
+  <cheat type="cb" name="132 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A276 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 6 Codes 133 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A280 0001</code>
+  </cheat>
+  <cheat type="cb" name="134 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A281 0000</code>
+  </cheat>
+  <cheat type="cb" name="135 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A282 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 7 Codes 136 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A28C 0001</code>
+  </cheat>
+  <cheat type="cb" name="137 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A28D 0000</code>
+  </cheat>
+  <cheat type="cb" name="138 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A28E 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 8 Codes 139 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A298 0001</code>
+  </cheat>
+  <cheat type="cb" name="140 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A299 0000</code>
+  </cheat>
+  <cheat type="cb" name="141 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A29A 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 9 Codes 142 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2A4 0001</code>
+  </cheat>
+  <cheat type="cb" name="143 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2A5 0000</code>
+  </cheat>
+  <cheat type="cb" name="144 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2A6 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 10 Codes 145 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2B0 0001</code>
+  </cheat>
+  <cheat type="cb" name="146 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2B1 0000</code>
+  </cheat>
+  <cheat type="cb" name="147 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2B2 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 11 Codes 148 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2BC 0001</code>
+  </cheat>
+  <cheat type="cb" name="149 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2BD 0000</code>
+  </cheat>
+  <cheat type="cb" name="150 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2BE 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 12 Codes 151 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2C8 0001</code>
+  </cheat>
+  <cheat type="cb" name="152 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2C9 0000</code>
+  </cheat>
+  <cheat type="cb" name="153 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2CA 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 13 Codes 154 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2D4 0001</code>
+  </cheat>
+  <cheat type="cb" name="155 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2D5 0000</code>
+  </cheat>
+  <cheat type="cb" name="156 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2D6 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 14 Codes 157 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2E0 0001</code>
+  </cheat>
+  <cheat type="cb" name="158 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2E1 0000</code>
+  </cheat>
+  <cheat type="cb" name="159 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2E2 0001</code>
+  </cheat>
+  <cheat type="cb" name="Unit 15 Codes 160 Press Select For 1 HP" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2EC 0001</code>
+  </cheat>
+  <cheat type="cb" name="161 Press Select For No Rds" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2ED 0000</code>
+  </cheat>
+  <cheat type="cb" name="162 Press Select For 1 Gas" enabled="false">
+    <code>0000317D 000A</code>
+    <code>1006C9E4 0007</code>
+    <code>D0000020 0004</code>
+    <code>3201A2EE 0001</code>
   </cheat>
 </cheats>
