@@ -1,7 +1,7 @@
-https://wescastro.com/codetwink/cheats.codetwink.com/gba/view/4720/default.htm
+https://wescastro.com/codetwink/cheats.codetwink.com/gba/view/4721/default.htm
 #	Description	Code
-1E	Enable Code (Must Be On)	00006838 000A
-1006C992 0007
+1E	Enable Code (Must Be On)	0000317D 000A
+1006C9E4 0007
 1	Always Day 1	33004420 0001
 2	Infinite Coins	8201227C FFFF
 3	P1 Infinite G	8201AB9C 423F
@@ -34,7 +34,7 @@ https://wescastro.com/codetwink/cheats.codetwink.com/gba/view/4720/default.htm
 21	No Fog Of War	3300431D 0000
 22	Always Fog Of War	3300431D 0001
 23	Always Get S Rank	3201ABCA 0005
-24	Press Select To Win Capture Battles	74000130 03FB
+24	Press Select To Win Capture Battles	D0000020 0004
 3201ABAC 0063
 25	Always Nell	8201ABB8 0000
 26	Always Andy	8201ABB8 0100
@@ -74,198 +74,204 @@ Unit 1 Codes
 58	Max HP	32019F44 0064
 59	Max Rds	32019F45 0005
 60	Max Gas	32019F46 0063
-61	Press L To Move Unit Again	74000130 01FF
+61	Press L To Move Unit Again	D0000020 0200
 32019F41 0000
 Unit 2 Codes
 62	Max HP	32019F50 0064
 63	Max Rds	32019F51 0005
 64	Max Gas	32019F52 0063
-65	Press L To Move Unit Again	74000130 01FF
+65	Press L To Move Unit Again	D0000020 0200
 32019F4D 0000
 Unit 3 Codes
 66	Max HP	32019F5C 0064
 67	Max Rds	32019F5D 0005
 68	Max Gas	32019F5E 0063
-69	Press L To Move Unit Again	74000130 01FF
+69	Press L To Move Unit Again	D0000020 0200
 32019F59 0000
 Unit 4 Codes
 70	Max HP	32019F68 0064
 71	Max Rds	32019F69 0005
 72	Max Gas	32019F6A 0063
-73	Press L To Move Unit Again	74000130 01FF
+73	Press L To Move Unit Again	D0000020 0200
 32019F65 0000
 Unit 5 Codes
 74	Max HP	32019F74 0064
 75	Max Rds	32019F75 0005
 76	Max Gas	32019F76 0063
-77	Press L To Move Unit Again	74000130 01FF
+77	Press L To Move Unit Again	D0000020 0200
 32019F71 0000
 Unit 6 Codes
 78	Max HP	32019F80 0064
 79	Max Rds	32019F81 0005
 80	Max Gas	32019F82 0063
-81	Press L To Move Unit Again	74000130 01FF
+81	Press L To Move Unit Again	D0000020 0200
 32019F7D 0000
 Unit 7 Codes
 82	Max HP	32019F8C 0064
 83	Max Rds	32019F8D 0005
 84	Max Gas	32019F8E 0063
-85	Press L To Move Unit Again	74000130 01FF
+85	Press L To Move Unit Again	D0000020 0200
 32019F89 0000
 Unit 8 Codes
 86	Max HP	32019F98 0064
 87	Max Rds	32019F99 0005
 88	Max Gas	32019F9A 0063
-89	Press L To Move Unit Again	74000130 01FF
+89	Press L To Move Unit Again	D0000020 0200
 32019F95 0000
 Unit 9 Codes
 90	Max HP	32019FA4 0064
 91	Max Rds	32019FA5 0005
 92	Max Gas	32019FA6 0063
-93	Press L To Move Unit Again	74000130 01FF
+93	Press L To Move Unit Again	D0000020 0200
 32019FA1 0000
 Unit 10 Codes
 94	Max HP	32019FB0 0064
 95	Max Rds	32019FB1 0005
 96	Max Gas	32019FB2 0063
-97	Press L To Move Unit Again	74000130 01FF
+97	Press L To Move Unit Again	D0000020 0200
 32019FAD 0000
 Unit 11 Codes
 98	Max HP	32019FBC 0064
 99	Max Rds	32019FBD 0005
 100	Max Gas	32019FBE 0063
-101	Press L To Move Unit Again	74000130 01FF
+101	Press L To Move Unit Again	D0000020 0200
 32019FB9 0000
 Unit 12 Codes
 102	Max HP	32019FC8 0064
 103	Max Rds	32019FC9 0005
 104	Max Gas	32019FCA 0063
-105	Press L To Move Unit Again	74000130 01FF
+105	Press L To Move Unit Again	D0000020 0200
 32019FC5 0000
 Unit 13 Codes
 106	Max HP	32019FD4 0064
 107	Max Rds	32019FD5 0005
 108	Max Gas	32019FD6 0063
-109	Press L To Move Unit Again	74000130 01FF
+109	Press L To Move Unit Again	D0000020 0200
 32019FD1 0000
 Unit 14 Codes
 110	Max HP	32019FE0 0064
 111	Max Rds	32019FE1 0005
 112	Max Gas	32019FE2 0063
-113	Press L To Move Unit Again	74000130 01FF
+113	Press L To Move Unit Again	D0000020 0200
 32019FDD 0000
 Unit 15 Codes
 114	Max HP	32019FEC 0064
 115	Max Rds	32019FED 0005
 116	Max Gas	32019FEE 0063
-117	Press L To Move Unit Again	74000130 01FF
+117	Press L To Move Unit Again	D0000020 0200
 32019FE9 0000
 Enemy Unit Codes
 Unit 1 Codes
-118	Press Select For 1 HP	74000130 03FB
+118	Press Select For 1 HP	D0000020 0004
 3201A244 0001
-119	Press Select For No Rds	74000130 03FB
+119	Press Select For No Rds	D0000020 0004
 3201A245 0000
-120	Press Select For 1 Gas	74000130 03FB
+120	Press Select For 1 Gas	D0000020 0004
 3201A246 0001
 Unit 2 Codes
-121	Press Select For 1 HP	74000130 03FB
+121	Press Select For 1 HP	D0000020 0004
 3201A250 0001
-122	Press Select For No Rds	74000130 03FB
+122	Press Select For No Rds	D0000020 0004
 3201A251 0000
-123	Press Select For 1 Gas	74000130 03FB
+123	Press Select For 1 Gas	D0000020 0004
 3201A252 0001
 Unit 3 Codes
-124	Press Select For 1 HP	74000130 03FB
+124	Press Select For 1 HP	D0000020 0004
 3201A25C 0001
-125	Press Select For No Rds	74000130 03FB
+125	Press Select For No Rds	D0000020 0004
 3201A25D 0000
-126	Press Select For 1 Gas	74000130 03FB
+126	Press Select For 1 Gas	D0000020 0004
 3201A25E 0001
 Unit 4 Codes
-127	Press Select For 1 HP	74000130 03FB
+127	Press Select For 1 HP	D0000020 0004
 3201A268 0001
-128	Press Select For No Rds	74000130 03FB
+128	Press Select For No Rds	D0000020 0004
 3201A269 0000
-129	Press Select For 1 Gas	74000130 03FB
+129	Press Select For 1 Gas	D0000020 0004
 3201A26A 0001
 Unit 5 Codes
-130	Press Select For 1 HP	74000130 03FB
+130	Press Select For 1 HP	D0000020 0004
 3201A274 0001
-131	Press Select For No Rds	74000130 03FB
+131	Press Select For No Rds	D0000020 0004
 3201A275 0000
-132	Press Select For 1 Gas	74000130 03FB
+132	Press Select For 1 Gas	D0000020 0004
 3201A276 0001
 Unit 6 Codes
-133	Press Select For 1 HP	74000130 03FB
+133	Press Select For 1 HP	D0000020 0004
 3201A280 0001
-134	Press Select For No Rds	74000130 03FB
+134	Press Select For No Rds	D0000020 0004
 3201A281 0000
-135	Press Select For 1 Gas	74000130 03FB
+135	Press Select For 1 Gas	D0000020 0004
 3201A282 0001
 Unit 7 Codes
-136	Press Select For 1 HP	74000130 03FB
+136	Press Select For 1 HP	D0000020 0004
 3201A28C 0001
-137	Press Select For No Rds	74000130 03FB
+137	Press Select For No Rds	D0000020 0004
 3201A28D 0000
-138	Press Select For 1 Gas	74000130 03FB
+138	Press Select For 1 Gas	D0000020 0004
 3201A28E 0001
 Unit 8 Codes
-139	Press Select For 1 HP	74000130 03FB
+139	Press Select For 1 HP	D0000020 0004
 3201A298 0001
-140	Press Select For No Rds	74000130 03FB
+140	Press Select For No Rds	D0000020 0004
 3201A299 0000
-141	Press Select For 1 Gas	74000130 03FB
+141	Press Select For 1 Gas	D0000020 0004
 3201A29A 0001
 Unit 9 Codes
-142	Press Select For 1 HP	74000130 03FB
+142	Press Select For 1 HP	D0000020 0004
 3201A2A4 0001
-143	Press Select For No Rds	74000130 03FB
+143	Press Select For No Rds	D0000020 0004
 3201A2A5 0000
-144	Press Select For 1 Gas	74000130 03FB
+144	Press Select For 1 Gas	D0000020 0004
 3201A2A6 0001
 Unit 10 Codes
-145	Press Select For 1 HP	74000130 03FB
+145	Press Select For 1 HP	D0000020 0004
 3201A2B0 0001
-146	Press Select For No Rds	74000130 03FB
+146	Press Select For No Rds	D0000020 0004
 3201A2B1 0000
-147	Press Select For 1 Gas	74000130 03FB
+147	Press Select For 1 Gas	D0000020 0004
 3201A2B2 0001
 Unit 11 Codes
-148	Press Select For 1 HP	74000130 03FB
+148	Press Select For 1 HP	D0000020 0004
 3201A2BC 0001
-149	Press Select For No Rds	74000130 03FB
+149	Press Select For No Rds	D0000020 0004
 3201A2BD 0000
-150	Press Select For 1 Gas	74000130 03FB
+150	Press Select For 1 Gas	D0000020 0004
 3201A2BE 0001
 Unit 12 Codes
-151	Press Select For 1 HP	74000130 03FB
+151	Press Select For 1 HP	D0000020 0004
 3201A2C8 0001
-152	Press Select For No Rds	74000130 03FB
+152	Press Select For No Rds	D0000020 0004
 3201A2C9 0000
-153	Press Select For 1 Gas	74000130 03FB
+153	Press Select For 1 Gas	D0000020 0004
 3201A2CA 0001
 Unit 13 Codes
-154	Press Select For 1 HP	74000130 03FB
+154	Press Select For 1 HP	D0000020 0004
 3201A2D4 0001
-155	Press Select For No Rds	74000130 03FB
+155	Press Select For No Rds	D0000020 0004
 3201A2D5 0000
-156	Press Select For 1 Gas	74000130 03FB
+156	Press Select For 1 Gas	D0000020 0004
 3201A2D6 0001
 Unit 14 Codes
-157	Press Select For 1 HP	74000130 03FB
+157	Press Select For 1 HP	D0000020 0004
 3201A2E0 0001
-158	Press Select For No Rds	74000130 03FB
+158	Press Select For No Rds	D0000020 0004
 3201A2E1 0000
-159	Press Select For 1 Gas	74000130 03FB
+159	Press Select For 1 Gas	D0000020 0004
 3201A2E2 0001
 Unit 15 Codes
-160	Press Select For 1 HP	74000130 03FB
+160	Press Select For 1 HP	D0000020 0004
 3201A2EC 0001
-161	Press Select For No Rds	74000130 03FB
+161	Press Select For No Rds	D0000020 0004
 3201A2ED 0000
-162	Press Select For 1 Gas	74000130 03FB
+162	Press Select For 1 Gas	D0000020 0004
 3201A2EE 0001
+(163 codes total)
+
+(Game Boy® Advance)
+Advance Wars (Version 1.1) Notes
+Note 1:
+With this code, with certain COs, if you keep using your special, there will come a time when you won't automatically have your special bar full. But after engaging the enemy once or twice, the special bar will fill back up and you can unleash your power again.
 
 
 
