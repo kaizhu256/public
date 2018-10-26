@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<cheats>
+  <cheat type="cb" name="Max Money">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>82001F64 E0FF</code>
+    <code>82001F66 05F5</code>
+  </cheat>
+  <cheat type="cb" name="Gets Lots Of Ap">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>8201F514 1188</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P1 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>8200009A 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P1 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>82000098 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P1 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200009C 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P1 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200009E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max JP P1 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>32000156 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P2 in Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820001A2 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P2 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820001A0 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P2 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320001A6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P2 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320001A4 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P2 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200025E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P3 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820002A8 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P3 in Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820002AA 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P3 in Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320002AC 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P3 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320002AE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P3 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>32000366 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P4 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200046E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P4 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820003B0 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P4 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820003B2 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P4 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320003B4 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P4 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320003B6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P5 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>32000576 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P5 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820004B8 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P5 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820004BA 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P5 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320004BC 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P5 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320004BE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P6 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200067E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P6 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820005C0 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P6 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820005C2 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P6 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320005C4 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P6 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320005C6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P7 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>32000786 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P7 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820006C8 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P7 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820006CA 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P7 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320006CC 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P7 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320006CE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Jp P8 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200088E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Inf Hp P8 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820007D0 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp P8 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820007D2 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Inf Mp P8 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320007D4 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp P8 In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320007D6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 8">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320007C2 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320006BA 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 6">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320005B2 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 5">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320004AA 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 3">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>320003A2 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 4">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200029A 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 2">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>32000192 0063</code>
+  </cheat>
+  <cheat type="cb" name="Level Up Player 1">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>3200008A 0063</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P1">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820000A0 03E7</code>
+    <code>820000A2 03E7</code>
+    <code>820000A4 03E7</code>
+    <code>820000A6 03E7</code>
+    <code>82000152 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P2">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820001A8 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820001AA 03E7</code>
+    <code>820001AC 03E7</code>
+    <code>820001AE 03E7</code>
+    <code>8200025A 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P3">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820002B0 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820002B2 03E7</code>
+    <code>820002B4 03E7</code>
+    <code>820002B6 03E7</code>
+    <code>82000362 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P4">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820003B8 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820003BA 03E7</code>
+    <code>820003BC 03E7</code>
+    <code>820003BE 03E7</code>
+    <code>8200046A 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P5">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820004C0 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820004C2 03E7</code>
+    <code>820004C4 03E7</code>
+    <code>820004C6 03E7</code>
+    <code>82000572 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P6">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820005C8 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820005CA 03E7</code>
+    <code>820005CC 03E7</code>
+    <code>820005CE 03E7</code>
+    <code>8200067A 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820006D0 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820006D2 03E7</code>
+    <code>820006D4 03E7</code>
+    <code>820006D6 03E7</code>
+    <code>82000782 03E7</code>
+  </cheat>
+  <cheat type="cb" name="Max Stats P8">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+  </cheat>
+  <cheat type="cb" name="820007D8 03E7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>820007DA 03E7</code>
+    <code>820007DC 03E7</code>
+    <code>820007DE 03E7</code>
+    <code>8200088A 03E7</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities Hero">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420000C0 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P2">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420001C8 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P3">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420002D0 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilites P4">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420003D8 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P5">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420004E0 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P6">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420005E8 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P7">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420006F0 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P8">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420007F8 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P9">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000900 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P10">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000A08 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P11">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000B10 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P12">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000C18 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P13">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000D20 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P14">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000E28 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P15">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000F30 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P16">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42001038 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P17">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42001140 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P18">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42001248 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P19">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42001350 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="All Jobs & All Abilities P20">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42001458 EEEE</code>
+    <code>00000048 0002</code>
+  </cheat>
+  <cheat type="cb" name="No Laws In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42003C34 0000</code>
+    <code>00000003 0002</code>
+  </cheat>
+  <cheat type="cb" name="Level Up All In Battle">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>4200008A 0063</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Hp All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>4200009A 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Infinite Hp All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000098 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Mp All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>4200009E 0063</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Infinite Mp All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>4200009C 0063</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Infinite JP">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000156 0063</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Attack All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420000A0 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Defence All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420000A2 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Power All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420000A4 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Resistence All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420000A6 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Speed All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000152 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="No Cards All">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>42000182 03E7</code>
+    <code>00000014 0108</code>
+  </cheat>
+  <cheat type="cb" name="Max Clan Skill Stats">
+    <code>1000048A 0007</code>
+    <code>000037AE 000A</code>
+    <code>420021B6 0063</code>
+    <code>00000008 0002</code>
+  </cheat>
+</cheats>
