@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<cheats>
+  <cheat type="cb" name="inf power p1">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8201ABBC FFFF</code>
+  </cheat>
+  <cheat type="cb" name="inf power p2" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8201AC24 FFFF</code>
+  </cheat>
+  <cheat type="cb" name="inf power p3" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8201AC8C FFFF</code>
+  </cheat>
+  <cheat type="cb" name="inf power p4" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8201ACF4 FFFF</code>
+  </cheat>
+  <cheat type="cb" name="advance wars - rank s" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABCA 0005</code>
+  </cheat>
+  <cheat type="cb" name="co nell" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0000</code>
+  </cheat>
+  <cheat type="cb" name="co andy" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0001</code>
+  </cheat>
+  <cheat type="cb" name="co max" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0002</code>
+  </cheat>
+  <cheat type="cb" name="co olaf" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0003</code>
+  </cheat>
+  <cheat type="cb" name="co sami" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0004</code>
+  </cheat>
+  <cheat type="cb" name="co grit" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0005</code>
+  </cheat>
+  <cheat type="cb" name="co kanbei" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0006</code>
+  </cheat>
+  <cheat type="cb" name="co sonja" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0007</code>
+  </cheat>
+  <cheat type="cb" name="co eagle" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0008</code>
+  </cheat>
+  <cheat type="cb" name="co drake">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 0009</code>
+  </cheat>
+  <cheat type="cb" name="co sturm" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3201ABB9 000A</code>
+  </cheat>
+  <cheat type="cb" name="inf move 1" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>74000130 01FF</code>
+  </cheat>
+  <cheat type="cb" name="no fog" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3300431D 0000</code>
+  </cheat>
+</cheats>

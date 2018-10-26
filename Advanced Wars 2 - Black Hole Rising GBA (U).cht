@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<cheats>
+  <cheat type="cb" name="inf move 1">
+    <code>73003334 0006</code>
+    <code>3202269D 0000</code>
+    <code>73003334 0006</code>
+    <code>32022691 0000</code>
+  </cheat>
+  <cheat type="cb" name="inf move 2">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>73003334 0006</code>
+    <code>3202269D 0000</code>
+  </cheat>
+  <cheat type="cb" name="rank s">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>320232F3 0005</code>
+  </cheat>
+  <cheat type="cb" name="inf move 3" enabled="false">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>73003334 0006</code>
+    <code>320226A9 0000</code>
+  </cheat>
+  <cheat type="cb" name="inf move 4" enabled="false">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>73003334 0006</code>
+    <code>320226B5 0000</code>
+  </cheat>
+  <cheat type="cb" name="advance wars 2 max stars">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>320232E1 00FF</code>
+    <code>320232E2 00FF</code>
+  </cheat>
+  <cheat type="cb" name="advance wars 2 - max power blue - team 2" enabled="false">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>3202331F 0002</code>
+  </cheat>
+  <cheat type="cb" name="advance wars 2 - max power green" enabled="false">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>3202335B 0002</code>
+  </cheat>
+  <cheat type="cb" name="advance wars 2 - max power yellow" enabled="false">
+    <code>00009E1F 000A</code>
+    <code>1006FD98 0007</code>
+    <code>32023397 0002</code>
+  </cheat>
+</cheats>
