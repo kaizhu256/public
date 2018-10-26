@@ -1,53 +1,135 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <cheats>
-  <cheat type="cb" name="inf move 1">
-    <code>73003334 0006</code>
-    <code>3202269D 0000</code>
-    <code>73003334 0006</code>
-    <code>32022691 0000</code>
+  <cheat type="cb" name="1 No Fog Of War" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>33003FCD 0000</code>
   </cheat>
-  <cheat type="cb" name="inf move 2">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>73003334 0006</code>
-    <code>3202269D 0000</code>
+  <cheat type="cb" name="2 Always Day 1" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>33004080 0001</code>
   </cheat>
-  <cheat type="cb" name="rank s">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>320232F3 0005</code>
+  <cheat type="cb" name="3 50_000 G _Shop_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8200C420 C350</code>
   </cheat>
-  <cheat type="cb" name="inf move 3" enabled="false">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>73003334 0006</code>
-    <code>320226A9 0000</code>
+  <cheat type="cb" name="4 50_000 G _In_Battle_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>820232C0 C350</code>
   </cheat>
-  <cheat type="cb" name="inf move 4" enabled="false">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>73003334 0006</code>
-    <code>320226B5 0000</code>
+  <cheat type="cb" name="5 Collect 1_000 Per Win" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>820232F8 03E8</code>
   </cheat>
-  <cheat type="cb" name="advance wars 2 max stars">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
+  <cheat type="cb" name="6 Press B_Up To Activate Power Mode" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>74000130 03BD</code>
+    <code>820232DE 0101</code>
+  </cheat>
+  <cheat type="cb" name="7 Press B_Down To Activate Super Mode" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>74000130 037D</code>
+    <code>820232DE 0202</code>
+  </cheat>
+  <cheat type="cb" name="8 Max Stars" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
     <code>320232E1 00FF</code>
     <code>320232E2 00FF</code>
   </cheat>
-  <cheat type="cb" name="advance wars 2 - max power blue - team 2" enabled="false">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>3202331F 0002</code>
+  <cheat type="cb" name="9 No Stars" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>320232E1 0000</code>
   </cheat>
-  <cheat type="cb" name="advance wars 2 - max power green" enabled="false">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>3202335B 0002</code>
+  <cheat type="cb" name="10 Always Rank S" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>320232F3 0005</code>
   </cheat>
-  <cheat type="cb" name="advance wars 2 - max power yellow" enabled="false">
-    <code>00009E1F 000A</code>
-    <code>1006FD98 0007</code>
-    <code>32023397 0002</code>
+  <cheat type="cb" name="11 Max Stars _Opponent_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3202331D 00FF</code>
+    <code>3202331E 00FF</code>
+  </cheat>
+  <cheat type="cb" name="12 No Stars _Opponent_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>3202331D 0000</code>
+  </cheat>
+  <cheat type="cb" name="13 Unlock Hard Campaign" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>32028030 0001</code>
+  </cheat>
+  <cheat type="cb" name="14 Unlock Sound Room" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>32028031 0001</code>
+  </cheat>
+  <cheat type="cb" name="15 Have All Teams" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8202805A FFFF</code>
+  </cheat>
+  <cheat type="cb" name="16 Have All Color Edits" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>8202805C FFFF</code>
+    <code>8202805E FFFF</code>
+  </cheat>
+  <cheat type="cb" name="17 Have All Battle Maps" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>42028040 FFFF</code>
+    <code>0000000D 0002</code>
+  </cheat>
+  <cheat type="cb" name="18 War Room Mastered" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>4200C078 0101</code>
+    <code>0000001E 0014</code>
+    <code>4200C07A 12C0</code>
+    <code>0000001E 0014</code>
+  </cheat>
+  <cheat type="cb" name="19 Infinite Health_Rounds _All Units_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>42022694 94E4</code>
+    <code>00000032 000C</code>
+  </cheat>
+  <cheat type="cb" name="20 Infinite Rations _All Units_ _Note 1_" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>42022696 0063</code>
+    <code>00000032 000C</code>
+  </cheat>
+  <cheat type="cb" name="Unit 1 Codes 21 Infinite Health" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>32022694 00E4</code>
+  </cheat>
+  <cheat type="cb" name="22 Infinite Rounds" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>32022695 0094</code>
+  </cheat>
+  <cheat type="cb" name="23 Infinite Rations" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>32022696 0063</code>
+  </cheat>
+  <cheat type="cb" name="24 Infinite Moves" enabled="false">
+    <code>00006838 000A</code>
+    <code>1006C992 0007</code>
+    <code>73003334 0006</code>
+    <code>32022691 0000</code>
   </cheat>
 </cheats>
